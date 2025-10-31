@@ -1,0 +1,17 @@
+{
+  "name": "jest-example",
+  "version": "1.0.0",
+  "description": "A simple project to test using Jest",
+  "main": "math.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "author": "Tanmesh",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
+
+
